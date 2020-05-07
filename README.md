@@ -1,2 +1,1 @@
-# scala-examples
-Scala code examples
+# Scala Examples
